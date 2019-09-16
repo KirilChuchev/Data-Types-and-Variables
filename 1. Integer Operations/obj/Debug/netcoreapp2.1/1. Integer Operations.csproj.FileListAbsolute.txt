@@ -1,0 +1,10 @@
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\1. Integer Operations\bin\Debug\netcoreapp2.1\1. Integer Operations.deps.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\1. Integer Operations\bin\Debug\netcoreapp2.1\1. Integer Operations.runtimeconfig.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\1. Integer Operations\bin\Debug\netcoreapp2.1\1. Integer Operations.runtimeconfig.dev.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\1. Integer Operations\bin\Debug\netcoreapp2.1\1. Integer Operations.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\1. Integer Operations\bin\Debug\netcoreapp2.1\1. Integer Operations.pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\1. Integer Operations\obj\Debug\netcoreapp2.1\1. Integer Operations.csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\1. Integer Operations\obj\Debug\netcoreapp2.1\1. Integer Operations.AssemblyInfoInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\1. Integer Operations\obj\Debug\netcoreapp2.1\1. Integer Operations.AssemblyInfo.cs
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\1. Integer Operations\obj\Debug\netcoreapp2.1\1. Integer Operations.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\1. Integer Operations\obj\Debug\netcoreapp2.1\1. Integer Operations.pdb

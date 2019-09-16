@@ -1,0 +1,10 @@
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\2. Sum Digits\bin\Debug\netcoreapp2.1\2. Sum Digits.deps.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\2. Sum Digits\bin\Debug\netcoreapp2.1\2. Sum Digits.runtimeconfig.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\2. Sum Digits\bin\Debug\netcoreapp2.1\2. Sum Digits.runtimeconfig.dev.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\2. Sum Digits\bin\Debug\netcoreapp2.1\2. Sum Digits.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\2. Sum Digits\bin\Debug\netcoreapp2.1\2. Sum Digits.pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\2. Sum Digits\obj\Debug\netcoreapp2.1\2. Sum Digits.csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\2. Sum Digits\obj\Debug\netcoreapp2.1\2. Sum Digits.AssemblyInfoInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\2. Sum Digits\obj\Debug\netcoreapp2.1\2. Sum Digits.AssemblyInfo.cs
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\2. Sum Digits\obj\Debug\netcoreapp2.1\2. Sum Digits.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\2. Sum Digits\obj\Debug\netcoreapp2.1\2. Sum Digits.pdb
