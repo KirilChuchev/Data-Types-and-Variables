@@ -1,0 +1,10 @@
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\7. Water Overflow\bin\Debug\netcoreapp2.1\7. Water Overflow.deps.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\7. Water Overflow\bin\Debug\netcoreapp2.1\7. Water Overflow.runtimeconfig.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\7. Water Overflow\bin\Debug\netcoreapp2.1\7. Water Overflow.runtimeconfig.dev.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\7. Water Overflow\bin\Debug\netcoreapp2.1\7. Water Overflow.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\7. Water Overflow\bin\Debug\netcoreapp2.1\7. Water Overflow.pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\7. Water Overflow\obj\Debug\netcoreapp2.1\7. Water Overflow.csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\7. Water Overflow\obj\Debug\netcoreapp2.1\7. Water Overflow.AssemblyInfoInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\7. Water Overflow\obj\Debug\netcoreapp2.1\7. Water Overflow.AssemblyInfo.cs
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\7. Water Overflow\obj\Debug\netcoreapp2.1\7. Water Overflow.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\7. Water Overflow\obj\Debug\netcoreapp2.1\7. Water Overflow.pdb
