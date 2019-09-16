@@ -1,0 +1,11 @@
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\9. Spice Must Flow\bin\Debug\netcoreapp2.1\9. Spice Must Flow.deps.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\9. Spice Must Flow\bin\Debug\netcoreapp2.1\9. Spice Must Flow.runtimeconfig.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\9. Spice Must Flow\bin\Debug\netcoreapp2.1\9. Spice Must Flow.runtimeconfig.dev.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\9. Spice Must Flow\bin\Debug\netcoreapp2.1\9. Spice Must Flow.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\9. Spice Must Flow\bin\Debug\netcoreapp2.1\9. Spice Must Flow.pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\9. Spice Must Flow\obj\Debug\netcoreapp2.1\9. Spice Must Flow.csprojAssemblyReference.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\9. Spice Must Flow\obj\Debug\netcoreapp2.1\9. Spice Must Flow.csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\9. Spice Must Flow\obj\Debug\netcoreapp2.1\9. Spice Must Flow.AssemblyInfoInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\9. Spice Must Flow\obj\Debug\netcoreapp2.1\9. Spice Must Flow.AssemblyInfo.cs
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\9. Spice Must Flow\obj\Debug\netcoreapp2.1\9. Spice Must Flow.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\24.05.2019\ConsoleApp1\9. Spice Must Flow\obj\Debug\netcoreapp2.1\9. Spice Must Flow.pdb
